@@ -1,2 +1,2 @@
 # ShowNow
-It’s a fully functional e-commerce website using Django.
+It’s a fully functional e-commerce website using Django, implementing features like product display, filtering and user authentication. Integrated a secure shopping cart system with functionality for adding products, managing multiple addresses and handling customer orders. Enabled user registration, login, password recovery and profile management to enhance customer experience and security. Optional PayPal integration for seamless payment processing, providing a secure and efficient transaction system.
